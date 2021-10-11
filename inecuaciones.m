@@ -22,3 +22,4 @@ f=x-1
 subplot(3,3,1)
 ezplot (f)
 
+
